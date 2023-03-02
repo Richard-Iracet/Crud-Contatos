@@ -6,12 +6,12 @@ A aplicação consiste em um Sistema de Cadastro de Contatos com a possibilidade
 
 <h3>Cadastro de contato:</h3>
 
-![CRUD Cadastro](https://user-images.githubusercontent.com/88061143/222341121-4b857429-f7ea-40b2-aff7-984d812a2012.gif)
+![CRUD Cadastrar](https://user-images.githubusercontent.com/88061143/222351439-20ea2807-4115-4765-867b-1553a0ca19f1.gif)
 
 <h3>Edição de contato:</h3>
 
-![CRUD Edicao](https://user-images.githubusercontent.com/88061143/222341250-499f5df8-1328-452a-8295-c9a84175b6e1.gif)
+![CRUD Editar](https://user-images.githubusercontent.com/88061143/222351454-3625cd6b-b613-4ae5-8735-81ae96fad29a.gif)
 
 <h3>Exclusão de contato:</h3>
 
-![CRUD Exclusao](https://user-images.githubusercontent.com/88061143/222341261-a4330189-9ad5-4791-84f9-4454c5259aaa.gif)
+![CRUD Apagar](https://user-images.githubusercontent.com/88061143/222351465-1a91ec3b-a376-4e5b-b098-a60d96f03a03.gif)
